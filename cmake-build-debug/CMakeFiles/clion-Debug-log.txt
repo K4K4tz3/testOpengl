@@ -1,7 +1,0 @@
-"D:\Programming\CLion\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Programming/CLion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Programming\Projects\untitled2 -B D:\Programming\Projects\untitled2\cmake-build-debug
--- Including Win32 support
--- GLM: Version 1.0.2
--- GLM: Build with C++ features auto detection
--- Configuring done (0.1s)
--- Generating done (0.1s)
--- Build files have been written to: D:/Programming/Projects/untitled2/cmake-build-debug
