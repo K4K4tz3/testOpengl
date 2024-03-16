@@ -1,0 +1,9 @@
+D:/Programming/Projects/Dummy/CMakeFiles/Dummy.dir
+D:/Programming/Projects/Dummy/CMakeFiles/ALL_BUILD.dir
+D:/Programming/Projects/Dummy/CMakeFiles/ZERO_CHECK.dir
+D:/Programming/Projects/Dummy/libs/CMakeFiles/glad.dir
+D:/Programming/Projects/Dummy/libs/glfw/CMakeFiles/ALL_BUILD.dir
+D:/Programming/Projects/Dummy/libs/glfw/src/CMakeFiles/glfw.dir
+D:/Programming/Projects/Dummy/libs/glfw/src/CMakeFiles/update_mappings.dir
+D:/Programming/Projects/Dummy/libs/glm/CMakeFiles/ALL_BUILD.dir
+D:/Programming/Projects/Dummy/libs/glm/glm/CMakeFiles/glm.dir
